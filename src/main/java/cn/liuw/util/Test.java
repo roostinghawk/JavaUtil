@@ -1,7 +1,6 @@
 package cn.liuw.util;
 
-import com.github.stuxuhai.jpinyin.PinyinException;
-import com.github.stuxuhai.jpinyin.PinyinFormat;
+import cn.liuw.util.comparator.PinyinComparator;
 import com.github.stuxuhai.jpinyin.PinyinHelper;
 
 import java.util.Arrays;

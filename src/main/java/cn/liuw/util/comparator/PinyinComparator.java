@@ -1,4 +1,4 @@
-package cn.liuw.util;
+package cn.liuw.util.comparator;
 
 import com.github.stuxuhai.jpinyin.PinyinHelper;
 
